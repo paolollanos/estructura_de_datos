@@ -1,5 +1,3 @@
-from _typeshed import Self
-
 
 class Array():
     def __init__(self, tamano):
@@ -10,11 +8,13 @@ class Array():
     def to_string(self):
         print(self.__data)
 
+       
+    #la tarea
+
     def setitem(dato, index):
         index.append(dato)
 
     def getlenght(self):
-        
         self.__gettamano =[0 for n in range(self.__gettamano)]
     
     def clear(self, dato):
