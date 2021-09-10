@@ -29,7 +29,7 @@ def bomba(n):
 n = 3
 print(bomba(n))
 
-
+# este no me salio profesor, ayuda por favor
 lista = ["tengo hambre", 2, 2, "son cuatro", "y", 4, 16]
 def puntomedio(lista):
     #if len(puntomedio - 1) == len(puntomedio)
